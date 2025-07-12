@@ -12,3 +12,8 @@ def run_quiz():
             "question": "Which planet is known as the Red Planet?",
             "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Venus"],
             "answer": "B"
+},
+        {
+            "question": "What is 7 + 8?",
+            "options": ["A. 12", "B. 13", "C. 14", "D. 15"],
+            "answer": "D"
