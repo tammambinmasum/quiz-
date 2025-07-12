@@ -22,3 +22,8 @@ def run_quiz():
             "question": "Is the sun a star? (True/False)",
             "options": ["A. True", "B. False"],
             "answer": "A"
+  }
+    ]
+
+    score = 0
+    total_questions = len(questions)
