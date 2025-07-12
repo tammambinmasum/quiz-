@@ -17,3 +17,8 @@ def run_quiz():
             "question": "What is 7 + 8?",
             "options": ["A. 12", "B. 13", "C. 14", "D. 15"],
             "answer": "D"
+ },
+        {
+            "question": "Is the sun a star? (True/False)",
+            "options": ["A. True", "B. False"],
+            "answer": "A"
