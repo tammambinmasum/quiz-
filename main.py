@@ -56,6 +56,6 @@ print("Thanks for playing! Goodbye!")
 
 # Run the quiz game
 if __name__ == "__main__":
-    run_quiz
+    run_quiz(
 
 
