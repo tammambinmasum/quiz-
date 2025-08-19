@@ -1,4 +1,4 @@
-# function for the quiz
+## function for the quiz
 def run_quiz():
     questions = [
 {
